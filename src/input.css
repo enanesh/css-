@@ -12,6 +12,10 @@
 
 .text{
 
-@apply text-red-700 flex flex-col justify-center items-center;
+  @apply text-red-700 flex flex-col justify-center items-center;
+
+  
 } 
+
+
 
